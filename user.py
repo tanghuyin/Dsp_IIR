@@ -31,7 +31,7 @@ from sympy import *
 #============输出===============
 # print pretty(H)
 #============绘图===============
-# print IIR.drawH(H)
+# IIR.drawH(H)
 #============转换===============
 # IIR.f2Omega(f)
 # IIR.f2w(f, f_k)
