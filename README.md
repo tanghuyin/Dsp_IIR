@@ -16,6 +16,7 @@ transform of from IIR analog filter  to IIR digital filter
   - 模拟低通到模拟高通、带通、带阻的转换，双线性法
   - Analog Low Pass Filter to Digital High Pass/Band Pass/Bandstop Filter(Way II)
   - 可以点阵绘图，格式化输出
+  - 接口函数在user.py中
 - ## 主要参数：
   - isChebyOrButt：1表示切比雪夫，0表示巴特沃斯
   - f_p, f_st 分别表示通带阻带
